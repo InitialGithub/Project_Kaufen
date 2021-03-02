@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/InitialGithub/Project_Kaufen/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/InitialGithub/Project_Kaufen/static/js/main.a9fa3466.chunk.js",
+    "main.js.map": "/InitialGithub/Project_Kaufen/static/js/main.a9fa3466.chunk.js.map",
+    "runtime-main.js": "/InitialGithub/Project_Kaufen/static/js/runtime-main.e72bfdf7.js",
+    "runtime-main.js.map": "/InitialGithub/Project_Kaufen/static/js/runtime-main.e72bfdf7.js.map",
+    "static/css/2.e8592b5d.chunk.css": "/InitialGithub/Project_Kaufen/static/css/2.e8592b5d.chunk.css",
+    "static/js/2.99d2516c.chunk.js": "/InitialGithub/Project_Kaufen/static/js/2.99d2516c.chunk.js",
+    "static/js/2.99d2516c.chunk.js.map": "/InitialGithub/Project_Kaufen/static/js/2.99d2516c.chunk.js.map",
+    "static/js/3.1ededb1d.chunk.js": "/InitialGithub/Project_Kaufen/static/js/3.1ededb1d.chunk.js",
+    "static/js/3.1ededb1d.chunk.js.map": "/InitialGithub/Project_Kaufen/static/js/3.1ededb1d.chunk.js.map",
+    "index.html": "/InitialGithub/Project_Kaufen/index.html",
+    "static/css/2.e8592b5d.chunk.css.map": "/InitialGithub/Project_Kaufen/static/css/2.e8592b5d.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/InitialGithub/Project_Kaufen/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.99d2516c.chunk.js.LICENSE.txt": "/InitialGithub/Project_Kaufen/static/js/2.99d2516c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e72bfdf7.js",
+    "static/css/2.e8592b5d.chunk.css",
+    "static/js/2.99d2516c.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.a9fa3466.chunk.js"
+  ]
+}
